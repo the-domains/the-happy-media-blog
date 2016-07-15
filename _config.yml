@@ -1,0 +1,14 @@
+layout_spectrum: 0.6604519810061902
+typography_spectrum: 0.9947421299293637
+color:
+  brandStrength: 0.26668684044852853
+  lightness: 0.4754285200033337
+  saturation: 0.8615442009177059
+  rhythmicContrast: 0.7285034477245063
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+name: The Happy Media Blog
